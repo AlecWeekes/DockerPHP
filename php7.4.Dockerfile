@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM php:7.4-fpm-alpine
 MAINTAINER DevLabs <devlabs@clever-touch.com>
 ARG DEBIAN_FRONTEND=noninteractive
 RUN set -xe
