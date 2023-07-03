@@ -1,6 +1,6 @@
 FROM ubuntu:20.04
 
-MAINTAINER Dan Brown <ssd.dan.brown@googlemail.com>
+MAINTAINER Dan Brown <devlabs@clever-touch.com>
 
 ARG DEBIAN_FRONTEND=noninteractive
 
